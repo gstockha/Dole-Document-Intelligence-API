@@ -2,6 +2,8 @@
 
 This project provides an API for document intelligence, allowing users to analyze and extract information from file types like PDF to JSON or TXT format.
 
+It was built at the request of the Dole Archives at the Robert J. Dole Institute of Politics, University of Kansas, for creating text-only versions of documents in order to make digitized archival content more accessible for anyone needing to use a screen reader.
+
 ## Dependencies
 
 To run this program, you need the following dependencies:
@@ -51,3 +53,4 @@ Once the program is running, don't exit the terminal window or cancel the progra
 ## Contact
 
 For any questions or support, please contact [g676s040@ku.edu](mailto:g676s040@ku.edu)
+
